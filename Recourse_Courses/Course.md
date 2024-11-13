@@ -1,0 +1,12 @@
+https://www.kaggle.com/learn/intro-to-deep-learning
+https://www.kaggle.com/learn/computer-vision
+https://github.com/daturkel/learning-papers
+https://arxiv.org/pdf/1811.12808 
+https://distill.pub/2016/misread-tsne/ 
+https://arxiv.org/pdf/1802.01528
+https://arxiv.org/pdf/1710.05468
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/
+https://pages.cs.wisc.edu/~dpage/cs760/evaluating.pdf
+https://www.damienfrancois.be/blog/files/modelperfcheatsheet.pdf
+https://arxiv.org/pdf/1311.2901
